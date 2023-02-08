@@ -42,7 +42,7 @@ function App() {
     <div className="background_img">
       <div className="App">
         <form className='app_form' onSubmit={handlesubmit}>
-          <input className='form_input' placeholder='Enter a number from 1 to 126' id='inputSearch' type="text" />
+          <input className='form_input' placeholder='Please enter a number from 1 to 126' id='inputSearch' type="text" />
           <button className='button'>Search</button>
         </form>
       </div>
